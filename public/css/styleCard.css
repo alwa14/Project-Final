@@ -1,0 +1,21 @@
+.baris {
+    margin-bottom: 20px;
+}
+
+.card-1 {
+    margin: 10px auto 0;
+}
+
+.card-title {
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.text-muted {
+    font-size: 13px;
+}
+
+.card-footer {
+    font-size: 12px;
+    font-weight: bold;
+}
